@@ -6,10 +6,11 @@
 <p align="center"> 🌱 I’m currently learning PYTHON
 <p align="center">:sparkles:Currently working on improvement on my GitHub README.md
 
-## <p align="center"> 📫 How to reach me 
+## <p align="center"> 📫 How to reach me  
+  <p align="center">
+  <img src="https://img.shields.io/badge/Varun2293-4285F4?logo=DISCORD&logoColor=white&style=for-the-badge">
+    </p>
   
-[![DISCORD](https://img.shields.io/badge/-Varun2293-4285F4?style=for-the-badge&logo=DISCORD&logoColor=white)](https://discord.com/channels/@me)
-
 ## <p align="center"> 💻 My setup
   <p align="center">
   <img src="https://img.shields.io/badge/windows_10-0078D6?logo=windows&logoColor=white&style=for-the-badge">
