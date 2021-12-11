@@ -17,3 +17,12 @@
   <img src="https://img.shields.io/badge/intel-core%20i5%203rd GEN-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
+
+## <p align="center"> 💻 My apps
+<p align="center">
+  🌐 Search engine: <a htef="https://www.google.com/"><img src="https://img.shields.io/badge/GOOGLE-fff?style=for-the-badge&logo=GOOGLE&logoColor=black"></a>
+  <br>
+  🌐 Web browser: <a htef="https://FIREFOX.com"><img src="https://img.shields.io/badge/FIREFOX-FF7139?logo=Firefox-Browser&logoColor=white&style=for-the-badge&color=FF7139"></a>
+  <br>
+  👨‍💻 Code editor: <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1"></a>
+  </p>
