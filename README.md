@@ -9,6 +9,7 @@
 ## <p align="center"> 📫 How to reach me  
   <p align="center">
   <img src="https://img.shields.io/badge/Varun2293-4285F4?logo=DISCORD&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </p>
   
 ## <p align="center"> 💻 My setup
