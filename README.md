@@ -14,7 +14,7 @@
   
 ## <p align="center"> 💻 My setup
   <p align="center">
-  OS = <a href="https://www.microsoft.com/en-in/windows/windows-10-specifications"><img src="https://img.shields.io/badge/windows_10-0078D6?logo=windows&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/windows_10-0078D6?logo=windows&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/intel-core%20i5%203rd GEN-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
