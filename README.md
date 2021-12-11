@@ -8,13 +8,13 @@
 
 ## <p align="center"> 📫 How to reach me  
   <p align="center">
-  <img src="https://img.shields.io/badge/Varun2293-4285F4?logo=DISCORD&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://discord.com/Varun#2273"><img src="https://img.shields.io/badge/Varun2293-4285F4?logo=DISCORD&logoColor=white&style=for-the-badge">
+  <a href="https://github.com/P-VARUN"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </p>
   
 ## <p align="center"> 💻 My setup
   <p align="center">
-  <img src="https://img.shields.io/badge/windows_10-0078D6?logo=windows&logoColor=white&style=for-the-badge">
+  <a href="https://www.microsoft.com/en-in/windows/windows-10-specifications"><img src="https://img.shields.io/badge/windows_10-0078D6?logo=windows&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/intel-core%20i5%203rd GEN-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
