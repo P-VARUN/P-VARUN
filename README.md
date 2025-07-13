@@ -14,9 +14,9 @@
   
 ## <p align="center"> 💻 My setup
   <p align="center">
-  <img src="https://img.shields.io/badge/windows_10-0078D6?logo=windows&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/windows_11-0078D6?logo=windows&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/intel-core%20i7 13th GEN H processor-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
 ## <p align="center"> 💻 My apps
