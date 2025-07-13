@@ -1,7 +1,7 @@
 ## <p align="center"> About me
 
 <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m VARUN
-<p align="center">I am a 18 years old, studying Btech 1st year CSE(core).
+<p align="center">I am 18 years old, studying Btech 1st year CSE(core).
 <p align="center"> 👀 I’m interested in PYTHON,HTML,CSS,JS.
 <p align="center"> 🌱 I’m currently learning C language.
 <p align="center">:sparkles:Currently working to improve my skills before the academic year starts.
