@@ -2,9 +2,9 @@
 
 <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m VARUN
 <p align="center">I am 18 years old, studying Btech 1st year CSE(core).
-<p align="center"> 👀 I’m interested to code, Android development and Android apps, create softwares.
-<p align="center"> 🌱 I’m currently learning Java.
-<p align="center">:sparkles:Currently working to improve my skills before the academic year starts.
+<p align="center"> 👀 I’m interested to Code, Android development and Android apps, create softwares.
+<p align="center"> 🌱 I’m currently learning Java,About to complete Python.
+<p align="center">:sparkles:Currently working to improve my skills.
 
 ## <p align="center"> 📫 How to reach me  
   <p align="center">
