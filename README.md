@@ -8,7 +8,7 @@
 
 ## <p align="center"> 📫 How to reach me  
   <p align="center">
-  <a href="https://discord.com/varun2273"><img src="https://img.shields.io/badge/__varun__01_-4285F4?logo=DISCORD&logoColor=white&style=for-the-badge">
+  <a href="https://discord.com/varun2273"><img src="https://img.shields.io/badge/__varun__01__-4285F4?logo=DISCORD&logoColor=white&style=for-the-badge">
   <a href="https://github.com/P-VARUN"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </p>
   
