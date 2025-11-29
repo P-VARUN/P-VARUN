@@ -4,7 +4,7 @@
 <p align="center">I am 18 years old, studying Btech 1st year CSE(core).
 <p align="center"> 👀 I’m interested to Code, Android development and Android apps, Create softwares.
 <p align="center"> 🌱 I’m currently learning Java,About to complete Python.
-p align="center"> 🤖 Presently doing some good concept building  python projects.
+<p align="center"> 🤖 Presently doing some good concept building  python projects.
 <p align="center">:sparkles:Currently working to improve my skills.
 
 ## <p align="center"> 📫 How to reach me  
