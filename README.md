@@ -25,7 +25,9 @@
   <p align="center">
   🔎 Search engine: <a href="https://www.google.com"><img src="https://img.shields.io/badge/GOOGLE-fff?style=for-the-badge&logo=GOOGLE&logoColor=black"></a>
   <br>
-  🌐 Web browser: <a href="https://www.google.com/intl/en_in/chrome/"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
+    <br>
+  🌐 Web browser: <a href="https://www.google.com/intl/en_in/chrome/"><img src="https://img.shields.io/badge/Google_chrome-fff?style=for-the-badge&logo=Google-chrome&logoColor=black"></a>
   <br>
+    <br>
   👨‍💻 Code editor: <a href="https://code.visualstudio.com/download"><img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1"></a>
   </p>
