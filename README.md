@@ -13,21 +13,4 @@
   <a href="https://discord.com/varun2273"><img src="https://img.shields.io/badge/__varun__01__-4285F4?logo=DISCORD&logoColor=white&style=for-the-badge">
   <a href="https://github.com/P-VARUN"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </p>
-  
-## <p align="center"> 💻 My setup
-  <p align="center">
-  <img src="https://img.shields.io/badge/windows_11-0078D6?logo=windows&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/intel-core%20i7 13th GEN H processor-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-</p>
 
-## <p align="center"> 💻 My apps
-  <p align="center">
-  🔎 Search engine: <a href="https://www.google.com"><img src="https://img.shields.io/badge/GOOGLE-fff?style=for-the-badge&logo=GOOGLE&logoColor=black"></a>
-  <br>
-    <br>
-  🌐 Web browser: <a href="https://www.google.com/intl/en_in/chrome/"><img src="https://img.shields.io/badge/Google_chrome-fff?style=for-the-badge&logo=Google-chrome&logoColor=black"></a>
-  <br>
-    <br>
-  👨‍💻 Code editor: <a href="https://code.visualstudio.com/download"><img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1"></a>
-  </p>
