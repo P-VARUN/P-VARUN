@@ -1,13 +1,13 @@
- <h1>Building cool stuff with code, caffeine, and curiosity ☕💡</h1>
+
 
 ## <p align="center"> About me
 
 <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m VARUN
-<p align="center">I am studying Btech 1st year CSE(core).
-<p align="center"> 👀 I’m interested to Code, Android development and Android apps, Create softwares.
-<p align="center"> 🌱 I’m currently learning...
-<p align="center"> 🤖 Presently doing some good concept building java projects.
+<p align="center"> Building cool stuff with <b>code, caffeine, and curiosity</b> ☕💡</p>
+<p align="center"> Studying Btech 1st year CSE(core).
+<p align="center"> 👀 Just Interested in Android development and Android apps, Create softwares.
 <p align="center">:sparkles:Currently working to improve my skills.
+
 
 ## <p align="center"> 📫 How to reach me  
   <p align="center">
