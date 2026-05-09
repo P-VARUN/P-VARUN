@@ -3,7 +3,7 @@
 ## <p align="center"> About me
 
 <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m VARUN
-<p align="center"> Building cool stuff with <b>Code, Caffeine, and Curiosity</b> ☕💡</p>
+<p align="center"> Building cool stuff with <b>Code, Caffeine, and Curiosity</b> ⌨️ ☕💡</p>
 <p align="center"> Studying Btech 1st year CSE(core).
 <p align="center"> 👀 Just Interested in Android development and Android apps, Create softwares.
 <p align="center">:sparkles:Currently working to improve my skills.
